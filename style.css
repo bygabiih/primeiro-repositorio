@@ -1,0 +1,13 @@
+body {
+    background-color: blueviolet;
+    color: antiquewhite;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+P {
+    color: rgb(214, 175, 124);
+    font-size: 16px;
+}
