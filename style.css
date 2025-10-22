@@ -3,6 +3,7 @@ body {
     color:azure; /*cor da letra */
     margin: 0px; /* espaço antes da borda */
     font-family:"BBH Sans Bogle&display" ;
+    margin-bottom: 100px;
 }
 
 header {
